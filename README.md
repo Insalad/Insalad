@@ -1,7 +1,7 @@
-- 16-year-old dev.
-- Currently working on: Salad a Roblox exploit.
-- Languages: HTML • CSS • JavaScript • C++ • C# • Python • Lua
+# Hey there
+I'm a 16 years old developer, currently working on the project Salad
 
+Languages i use the most: 
 ---
 
 <p align="center">
